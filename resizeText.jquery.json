@@ -1,0 +1,27 @@
+{
+  "name": "resizeText",
+  "title": "jQuery ResizeText",
+  "description": "Resize text according to the text's length",
+  "keywords": [
+    "jquery-plugins",
+    "resize-text",
+    "variable-font-size"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Saugat Rai",
+    "url": "https://github.com/RaiSaugat"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/RaiSaugat/jquery-resizeText/issues",
+  "docs": "https://github.com/RaiSaugat/jquery-resizeText/blob/master/README.md",
+  "download": "https://github.com/RaiSaugat/jquery-resizeText.git",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
